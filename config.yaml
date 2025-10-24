@@ -1,0 +1,16 @@
+paths:
+  data_raw: "./data/raw"
+  data_processed: "./data/processed"
+  models: "./models"
+  reports: "./reports"
+  logs: "./logs"
+
+training:
+  batch_size: 32
+  learning_rate: 0.0002
+  epochs: 50
+  image_size: 128
+  device: "cuda"
+
+detection:
+  threshold: 0.5
