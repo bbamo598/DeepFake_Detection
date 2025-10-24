@@ -1,0 +1,17 @@
+
+---
+
+#### `requirements.txt`
+```txt
+torch
+torchvision
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+matplotlib
+ffmpeg-python
+scikit-learn
+tqdm
+pyyaml
