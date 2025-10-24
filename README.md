@@ -1,5 +1,4 @@
 # DeepFake Project
-<<<<<<< HEAD
 
 ## Objectif
 Développer un système basé sur le Deep Learning pour :
@@ -73,7 +72,6 @@ DeepFake_Project/
 
 
 
-=======
 
 **Titre :** *Le DeepFake : Exploration de la technologie de Deep Learning pour la création et la détection des vidéos truquées*
 
@@ -89,7 +87,6 @@ Ce projet explore l’utilisation du **Deep Learning** pour la création et la d
 
 Le projet combine aspects **créatifs, techniques et sécuritaires**, tout en respectant les contraintes éthiques liées aux vidéos manipulées.
 
----
 
 ## Structure du projet
 ```
@@ -106,14 +103,12 @@ DeepFake_Project/
 └── config.yaml            # Configuration du projet
 ```
 
----
 
 ## Fonctionnalités
 * **Module de création DeepFake** : importation de vidéos/images, génération de DeepFakes, export des vidéos.
 * **Module de détection DeepFake** : analyse vidéo, classification, génération de scores de confiance.
 * **Visualisation et reporting** : visualisation comparative (original vs DeepFake), rapports détaillés.
 
----
 
 ## Technologies utilisées
 * **Langage principal :** Python
@@ -121,7 +116,6 @@ DeepFake_Project/
 * **Traitement d’image/vidéo :** OpenCV, ffmpeg
 * **Environnement :** GPU recommandé pour l’entraînement des modèles
 
----
 
 ## Installation
 1. Cloner le dépôt :
@@ -147,7 +141,6 @@ pip install -r requirements.txt
 
 4. Configurer les paramètres du projet dans `config.yaml` si nécessaire.
 
----
 
 ## Utilisation
 
@@ -169,7 +162,7 @@ python src/main.py
 pytest tests/
 ```
 
----
+
 
 ## Contributions
 
@@ -182,7 +175,7 @@ Pour contribuer :
 4. Push sur la branche (`git push origin feature/ma-nouvelle-fonctionnalité`)
 5. Ouvre une Pull Request
 
----
+
 
 ## Licence
 
